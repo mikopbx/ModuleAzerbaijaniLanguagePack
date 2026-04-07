@@ -3,20 +3,13 @@
 declare(strict_types=1);
 
 return [
-    'BreadcrumbModuleAzerbaijaniLanguagePack' => 'Azerbaijani Language Pack',
+    'BreadcrumbModuleAzerbaijaniLanguagePack' => 'Language Pack - Azerbaijani',
     'SubHeaderModuleAzerbaijaniLanguagePack' => 'Complete Azerbaijani language support for MikoPBX',
-    'mlp_SoundFiles' => 'Sound Files',
-    'mlp_TranslationFiles' => 'Translation Files',
-    'mlp_TranslationStrings' => 'Translation Strings',
-    'mlp_HowToUse' => 'How to Use',
-    'mlp_Step1' => 'After enabling this language pack, select Azerbaijani as the system language in General Settings.',
-    'mlp_GoToGeneralSettings' => 'Go to General Settings',
-    'mlp_LicenseHeader' => 'License',
-    'mlp_ModuleCode' => 'Module code',
-    'mlp_SoundFilesLicense' => 'Sound files',
-    'mlp_SoundFilesLicenseText' => 'Asterisk Sound Files (CC BY-SA 4.0)',
-    'mlp_CopyrightHeader' => 'Copyright',
-    'mlp_ModuleDevelopment' => 'Module development',
-    'mlp_VoicePrompts' => 'Voice prompts',
-    'mlp_VoicePromptsSource' => 'From official Asterisk release',
+    'mlp_az_SoundFiles' => 'Sound Files',
+    'mlp_az_TranslationFiles' => 'Translation Files',
+    'mlp_az_TranslationStrings' => 'Translation Strings',
+    'mlp_az_Step1' => 'After enabling this language pack, select the appropriate language in General Settings.',
+    'mlp_az_GoToGeneralSettings' => 'Go to General Settings',
+    'mlp_az_HelpTranslate' => 'Want to improve the translation? Help us on Weblate!',
+    'mlp_az_WeblateLink' => 'Open Weblate',
 ];
