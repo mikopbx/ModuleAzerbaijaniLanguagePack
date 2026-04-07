@@ -1,0 +1,546 @@
+; Core Asterisk Sounds in Azerbaijani (Azərbaycan)
+; Generated using Meta MMS-TTS (facebook/mms-tts-azj-script_latin)
+; Sample rate: 16000 Hz, mono, 16-bit PCM WAV
+; Total entries: 541
+;
+activated: Aktivləşdirildi.
+added: Əlavə edildi.
+agent-alreadyon: Bu agent artıq daxil olub. Zəhmət olmasa agent nömrənizi daxil edin və diyez düyməsini basın.
+agent-incorrect: Giriş yanlışdır. Zəhmət olmasa agent nömrənizi daxil edin və diyez düyməsini basın.
+agent-loggedoff: Agent çıxış etdi.
+agent-loginok: Agent daxil oldu.
+agent-newlocation: Zəhmət olmasa yeni daxili nömrə daxil edin və diyez düyməsini basın.
+agent-pass: Zəhmət olmasa şifrənizi daxil edin və diyez düyməsini basın.
+agent-user: Agent girişi. Zəhmət olmasa agent nömrənizi daxil edin və diyez düyməsini basın.
+all-circuits-busy-now: Hazırda bütün xətlər məşğuldur.
+astcc-followed-by-the-pound-key: Ardınca diyez düyməsini basın.
+at-tone-time-exactly: Siqnal səsində vaxt dəqiq olacaq...
+auth-incorrect: Şifrə yanlışdır. Zəhmət olmasa şifrənizi daxil edin və diyez düyməsini basın.
+auth-thankyou: Təşəkkür edirik.
+call-forwarding: Zəng yönləndirmə.
+call-fwd-no-ans: Cavab verilmədikdə zəng yönləndirmə.
+call-fwd-on-busy: Məşğul olduqda zəng yönləndirmə.
+call-fwd-unconditional: Şərtsiz zəng yönləndirmə.
+call-waiting: Zəng gözləmə.
+calling: Zəng edilir.
+cancelled: Ləğv edildi.
+cannot-complete-as-dialed: Zənginiz yığıldığı kimi tamamlana bilmir.
+check-number-dial-again: Zəhmət olmasa nömrəni yoxlayın və yenidən yığın.
+conf-adminmenu: Zəhmət olmasa, özünüzü səssizləşdirmək və ya səsi açmaq üçün 1-ə, konfransı kilidləmək və ya kiliddən çıxarmaq üçün 2-yə, son istifadəçini çıxarmaq üçün 3-ə, konfrans səsini azaltmaq və ya artırmaq üçün 4 və ya 6-ya, öz səsinizi azaltmaq və ya artırmaq üçün 7 və ya 9-a, çıxmaq üçün 8-ə basın.
+conf-adminmenu-162: Zəhmət olmasa, özünüzü səssizləşdirmək və ya səsi açmaq üçün 1-ə, konfransı kilidləmək və ya kiliddən çıxarmaq üçün 2-yə, son istifadəçini çıxarmaq üçün 3-ə, konfrans səsini azaltmaq və ya artırmaq üçün 4 və ya 6-ya, konfransı uzatmaq üçün 5-ə, öz səsinizi azaltmaq və ya artırmaq üçün 7 və ya 9-a, çıxmaq üçün 8-ə basın.
+conf-adminmenu-18: Zəhmət olmasa, özünüzü səssizləşdirmək və ya səsi açmaq üçün 1-ə, konfransı kilidləmək və ya kiliddən çıxarmaq üçün 2-yə, son istifadəçini çıxarmaq üçün 3-ə, konfrans səsini azaltmaq və ya artırmaq üçün 4 və ya 6-ya, konfransı uzatmaq üçün 5-ə, öz səsinizi azaltmaq və ya artırmaq üçün 7 və ya 9-a, daha çox seçim üçün 8-ə basın.
+conf-adminmenu-menu8: Konfransdakı istifadəçilərin siyahısını görmək üçün 1-ə, bütün qeyri-administrator istifadəçiləri çıxarmaq üçün 2-yə, bütün qeyri-administrator istifadəçiləri səssizləşdirmək və ya səsi açmaq üçün 3-ə, bu konfransı yazmaq üçün 4-ə, bu menyudan çıxıb konfransа qayıtmaq üçün 8-ə basın.
+conf-enteringno: Siz konfrans nömrəsinə daxil olursunuz
+conf-errormenu: Yanlış seçim
+conf-extended: Konfrans uzadıldı.
+conf-full: Bu konfrans doludur.
+conf-getchannel: Zəhmət olmasa kanal nömrəsini daxil edin və diyez düyməsini basın.
+conf-getconfno: Zəhmət olmasa konfrans nömrənizi daxil edin və diyez düyməsini basın.
+conf-getpin: Zəhmət olmasa konfrans pin nömrəsini daxil edin.
+conf-hasjoin: indi konfransdadır.
+conf-hasleft: konfransı tərk etdi.
+conf-invalid: Bu etibarlı konfrans nömrəsi deyil. Zəhmət olmasa yenidən cəhd edin.
+conf-invalidpin: Bu pin bu konfrans üçün etibarsızdır.
+conf-kicked: Siz bu konfransdan çıxarıldınız
+conf-leaderhasleft: Lider konfransı tərk etdi.
+conf-locked: Bu konfrans kilidlənib!
+conf-lockednow: Konfrans indi kilidləndi
+conf-muted: Siz indi səssiz rejimdəsiniz
+conf-noempty: Hazırda boş konfrans yoxdur.
+conf-nonextended: Konfrans uzadıla bilməz.
+conf-now-muted: Konfrans indi səssiz rejimdədir.
+conf-now-recording: Konfrans indi yazılır.
+conf-now-unmuted: Konfransın səssiz rejimi indi söndürüldü.
+conf-onlyone: Hazırda konfransda bir başqa iştirakçı var.
+conf-onlyperson: Siz hazırda bu konfransdakı yeganə şəxssiniz.
+conf-otherinparty: konfransdakı digər iştirakçılar
+conf-placeintoconf: Siz indi konfransa yerləşdiriləcəksiniz.
+conf-roll-callcomplete: İştirakçılar siyahısının oxunması tamamlandı.
+conf-thereare: Hazırda
+conf-unlockednow: Konfransın kilidi indi açıldı
+conf-unmuted: Sizin səssiz rejim indi söndürüldü
+conf-usermenu: Zəhmət olmasa özünüzü səssiz və ya səsli etmək üçün 1-i, konfrans səsini azaltmaq və ya artırmaq üçün 4 və ya 6-nı, öz səsinizi azaltmaq və ya artırmaq üçün 7 və ya 9-u, və ya çıxmaq üçün 8-i basın.
+conf-usermenu-162: Zəhmət olmasa özünüzü səssiz və ya səsli etmək üçün 1-i, konfrans səsini azaltmaq və ya artırmaq üçün 4 və ya 6-nı, konfransı uzatmaq üçün 5-i, öz səsinizi azaltmaq və ya artırmaq üçün 7 və ya 9-u, və ya menyudan çıxıb konfransa qayıtmaq üçün 8-i basın.
+conf-userswilljoin: istifadəçi konfransa qoşulacaq.
+conf-userwilljoin: istifadəçi konfransa qoşulacaq.
+conf-waitforleader: Konfrans lider gəldikdə başlayacaq.
+confbridge-begin-glorious-a: konfrans şanlı liderimiz gəldikdə başlayacaq
+confbridge-begin-glorious-b: konfrans şanlı liderimiz gəldikdə başlayacaq
+confbridge-begin-glorious-c: konfrans şanlı liderimiz gəldikdə başlayacaq
+confbridge-begin-leader: konfrans lider gəldikdə başlayacaq
+confbridge-binaural-off: 3D audio söndürüldü
+confbridge-binaural-on: 3D audio aktivləşdirildi
+confbridge-conf-begin: konfrans indi başlayacaq
+confbridge-conf-end: konfrans sona çatdı
+confbridge-dec-list-vol-in: Digər iştirakçıların audio səsini azaltmaq üçün...
+confbridge-dec-list-vol-out: ...digər iştirakçıların audio səsini azaltmaq üçün.
+confbridge-dec-talk-vol-in: Digər iştirakçılara olan danışma səsinizi azaltmaq üçün...
+confbridge-dec-talk-vol-out: ...digər iştirakçılara olan danışma səsinizi azaltmaq üçün.
+confbridge-has-joined: ...konfransa qoşuldu.
+confbridge-has-left: ...konfransı tərk etdi.
+confbridge-inc-list-vol-in: Digər iştirakçıların audio səsini artırmaq üçün...
+confbridge-inc-list-vol-out: ...digər iştirakçıların audio səsini artırmaq üçün.
+confbridge-inc-talk-vol-in: Digər iştirakçılara olan danışma səsinizi artırmaq üçün...
+confbridge-inc-talk-vol-out: ...digər iştirakçılara olan danışma səsinizi artırmaq üçün.
+confbridge-invalid: Siz yanlış seçim daxil etdiniz.
+confbridge-leave-in: Konfransı tərk etmək üçün...
+confbridge-leave-out: ...konfransı tərk etmək üçün.
+confbridge-lock-extended: ...konfransı kilidləmək və ya kilidini açmaq üçün. Konfrans kilidləndikdə yalnız konfrans administratorları qoşula bilər.
+confbridge-lock-in: Konfransı kilidləmək və ya kilidini açmaq üçün...
+confbridge-lock-no-join: Konfrans hazırda kilidlənib və qoşulmaq mümkün deyil.
+confbridge-lock-out: ...konfransı kilidləmək və ya kilidini açmaq üçün.
+confbridge-locked: Konfrans indi kilidləndi.
+confbridge-menu-exit-in: Menyudan çıxmaq üçün...
+confbridge-menu-exit-out: ...menyudan çıxmaq üçün.
+confbridge-mute-extended: ...özünüzü səssiz və ya səsli etmək üçün. Səssiz rejimdə olduqda digər iştirakçılara audio göndərə bilməzsiniz. Lakin digər səssiz olmayan iştirakçıları eşitməyə davam edəcəksiniz.
+confbridge-mute-in: Özünüzü səssiz və ya səsli etmək üçün...
+confbridge-mute-out: ...özünüzü səssiz və ya səsli etmək üçün.
+confbridge-muted: Siz indi səssiz rejimdəsiniz.
+confbridge-only-one: Hazırda konfransda bir başqa iştirakçı var.
+confbridge-only-participant: Siz hazırda konfransdakı yeganə iştirakçısınız.
+confbridge-participants: ...konfransdakı iştirakçılar.
+confbridge-pin: Zəhmət olmasa şəxsi identifikasiya nömrənizi daxil edin və diyez düyməsini basın.
+confbridge-pin-bad: Siz çox sayda yanlış şəxsi identifikasiya nömrəsi daxil etdiniz.
+confbridge-remove-last-in: Konfransa ən son qoşulan iştirakçını çıxarmaq üçün...
+confbridge-remove-last-out: ...konfransa ən son qoşulan iştirakçını çıxarmaq üçün.
+confbridge-removed: Siz konfransdan çıxarıldınız.
+confbridge-rest-list-vol-in: Konfransın audio səsini standart səviyyəyə qaytarmaq üçün...
+confbridge-rest-list-vol-out: ...konfransın audio səsini standart səviyyəyə qaytarmaq üçün.
+confbridge-rest-talk-vol-in: Danışma səsinizi standart səviyyəyə qaytarmaq üçün...
+confbridge-rest-talk-vol-out: ...danışma səsinizi standart səviyyəyə qaytarmaq üçün.
+confbridge-there-are: Hazırda...
+confbridge-unlocked: Konfransın kilidi indi açıldı.
+confbridge-unmuted: Siz artıq səssiz rejimdə deyilsiniz.
+de-activated: Deaktivləşdirildi.
+dictate/both_help: fasilə rejimini dəyişdirmək üçün ulduz düyməsinə basın, yeni diktə fayl adı daxil etmək üçün diyez düyməsinə basın
+dictate/enter_filename: Rəqəmsal diktə fayl adını daxil edib diyez düyməsinə basın və ya çıxmaq üçün sadəcə diyez düyməsinə basın
+dictate/forhelp: kömək üçün 0-a basın
+dictate/pause: fasilə
+dictate/paused: fasilə verildi
+dictate/play_help: yazma rejiminə keçmək üçün 1-ə basın, sürətli oxutmanı dəyişdirmək üçün 2-yə basın, geriyə keçmək üçün 7-yə basın, irəliyə keçmək üçün 8-ə basın
+dictate/playback: oxutma
+dictate/playback_mode: oxutma rejimi
+dictate/record: yazma
+dictate/record_help: oxutma rejiminə keçmək üçün 1-ə basın, faylı kəsib yenidən başlamaq üçün 8-ə basın
+dictate/record_mode: yazma rejimi
+dictate/truncating_audio: səs kəsilir
+digits/0: sıfır
+digits/1: bir
+digits/10: on
+digits/11: on bir
+digits/12: on iki
+digits/13: on üç
+digits/14: on dörd
+digits/15: on beş
+digits/16: on altı
+digits/17: on yeddi
+digits/18: on səkkiz
+digits/19: on doqquz
+digits/2: iki
+digits/20: iyirmi
+digits/3: üç
+digits/30: otuz
+digits/4: dörd
+digits/40: qırx
+digits/5: beş
+digits/50: əlli
+digits/6: altı
+digits/60: altmış
+digits/7: yeddi
+digits/70: yetmiş
+digits/8: səkkiz
+digits/80: səksən
+digits/9: doqquz
+digits/90: doxsan
+digits/a-m: gecə yarısından sonra
+digits/at: saat
+digits/billion: milyard
+digits/day-0: Bazar
+digits/day-1: Bazar ertəsi
+digits/day-2: Çərşənbə axşamı
+digits/day-3: Çərşənbə
+digits/day-4: Cümə axşamı
+digits/day-5: Cümə
+digits/day-6: Şənbə
+digits/dollars: dollar
+digits/h-1: birinci
+digits/h-10: onuncu
+digits/h-11: on birinci
+digits/h-12: on ikinci
+digits/h-13: on üçüncü
+digits/h-14: on dördüncü
+digits/h-15: on beşinci
+digits/h-16: on altıncı
+digits/h-17: on yeddinci
+digits/h-18: on səkkizinci
+digits/h-19: on doqquzuncu
+digits/h-2: ikinci
+digits/h-20: iyirminci
+digits/h-3: üçüncü
+digits/h-30: otuzuncu
+digits/h-4: dördüncü
+digits/h-40: qırxıncı
+digits/h-5: beşinci
+digits/h-50: əllinci
+digits/h-6: altıncı
+digits/h-60: altmışıncı
+digits/h-7: yeddinci
+digits/h-70: yetmişinci
+digits/h-8: səkkizinci
+digits/h-80: səksəninci
+digits/h-9: doqquzuncu
+digits/h-90: doxsanıncı
+digits/h-billion: milyardıncı
+digits/h-hundred: yüzüncü
+digits/h-million: milyonuncu
+digits/h-thousand: mininci
+digits/hundred: yüz
+digits/million: milyon
+digits/minus: mənfi
+digits/mon-0: Yanvar
+digits/mon-1: Fevral
+digits/mon-10: Noyabr
+digits/mon-11: Dekabr
+digits/mon-2: Mart
+digits/mon-3: Aprel
+digits/mon-4: May
+digits/mon-5: İyun
+digits/mon-6: İyul
+digits/mon-7: Avqust
+digits/mon-8: Sentyabr
+digits/mon-9: Oktyabr
+digits/oclock: tamam
+digits/oh: sıfır
+digits/p-m: günortadan sonra
+digits/pound: diyez
+digits/star: ulduz
+digits/thousand: min
+digits/today: bu gün
+digits/tomorrow: sabah
+digits/yesterday: dünən
+dir-first: axtardığınız şəxsin adının hərfləri.
+dir-firstlast: ... axtardığınız şəxsin ad və ya soyadının hərfləri.
+dir-instr: Əgər bu axtardığınız şəxsdirsə, indi 1-ə basın, əks halda ulduz düyməsinə basın.
+dir-intro: Qovluğa xoş gəlmisiniz. Zəhmət olmasa, axtardığınız şəxsin soyadının ilk üç hərfini düymələrlə daxil edin. Q üçün 7, Z üçün 9 düyməsini istifadə edin.
+dir-intro-fn: Qovluğa xoş gəlmisiniz. Zəhmət olmasa, axtardığınız şəxsin adının ilk üç hərfini düymələrlə daxil edin. Q üçün 7, Z üçün 9 düyməsini istifadə edin.
+dir-last: ... axtardığınız şəxsin soyadının hərfləri.
+dir-multi1: Basın ...
+dir-multi2: ... üçün ...
+dir-multi3: ... daxili nömrə ...
+dir-multi9: Daha çox giriş üçün 9-a basın.
+dir-nomatch: Axtarışınıza uyğun qovluq girişi tapılmadı.
+dir-nomore: Qovluqda daha çox uyğun giriş yoxdur.
+dir-pls-enter: Zəhmət olmasa ilk ...
+dir-usingkeypad: ... düymələrlə daxil edin. Q üçün 7, Z üçün 9 düyməsini istifadə edin.
+dir-welcome: Qovluğa xoş gəlmisiniz
+disabled: Söndürüldü.
+do-not-disturb: Narahat etməyin.
+enabled: Aktivləşdirildi.
+enter-num-blacklist: Zəhmət olmasa qara siyahıya əlavə ediləcək nömrəni daxil edin.
+entr-num-rmv-blklist: Zəhmət olmasa qara siyahıdan çıxarılacaq nömrəni daxil edin.
+extension: Daxili nömrə.
+feature-not-avail-line: Bu xəttdə həmin funksiya mövcud deyil.
+followme/call-from: gələn zəng
+followme/no-recording: sizə gələn zəng var
+followme/options: bu zəngi qəbul etmək üçün 1-ə, rədd etmək üçün 2-yə basın
+followme/pls-hold-while-try: zəhmət olmasa, zəng etdiyiniz şəxsi tapmağa çalışarkən gözləyin
+followme/sorry: Üzr istəyirik, lakin zəng etdiyiniz şəxsi tapmaq mümkün olmadı
+followme/status: zəng etdiyiniz şəxs öz yerində deyil; onu sizin üçün tapmağa çalışacağam
+for: Üçün.
+from-unknown-caller: Naməlum zəng edəndən.
+goodbye: Sağ olun!
+hello: Salam.
+hello-world: Salam dünya.
+hours: saat
+if-correct-press: Əgər bu düzgündürsə, basın...
+im-sorry: Bağışlayın.
+info-about-last-call: Son zənginiz haqqında məlumat.
+invalid: Üzr istəyirik, bu etibarlı daxili nömrə deyil. Zəhmət olmasa yenidən cəhd edin.
+is: Dir.
+is-in-use: İstifadə olunur.
+is-set-to: Təyin edilib.
+letters/a: a
+letters/ascii123: sol fiqurlu mötərizə
+letters/ascii124: şaquli xətt
+letters/ascii125: sağ fiqurlu mötərizə
+letters/ascii126: tildə
+letters/ascii34: dırnaq işarəsi
+letters/ascii36: dollar işarəsi
+letters/ascii37: faiz
+letters/ascii38: ampersand
+letters/ascii39: apostrof
+letters/ascii40: açıq mötərizə
+letters/ascii41: qapalı mötərizə
+letters/ascii42: ulduz
+letters/ascii44: vergül
+letters/ascii58: iki nöqtə
+letters/ascii59: nöqtəli vergül
+letters/ascii60: kiçikdir
+letters/ascii62: böyükdür
+letters/ascii63: sual işarəsi
+letters/ascii91: sol kvadrat mötərizə
+letters/ascii92: əks kəsr xətti
+letters/ascii93: sağ kvadrat mötərizə
+letters/ascii94: karet
+letters/ascii95: alt xətt
+letters/ascii96: əks apostrof
+letters/asterisk: ulduz
+letters/at: at işarəsi
+letters/b: be
+letters/c: se
+letters/d: de
+letters/dash: tire
+letters/dollar: dollar
+letters/dot: nöqtə
+letters/e: e
+letters/equals: bərabərdir
+letters/exclaimation-point: nida işarəsi
+letters/f: ef
+letters/g: ge
+letters/h: haş
+letters/i: i
+letters/j: je
+letters/k: ka
+letters/l: el
+letters/m: em
+letters/n: en
+letters/o: o
+letters/p: pe
+letters/plus: üstəgəl
+letters/q: ku
+letters/r: er
+letters/s: es
+letters/slash: kəsr xətti
+letters/space: boşluq
+letters/t: te
+letters/u: u
+letters/v: ve
+letters/w: dublyove
+letters/x: iks
+letters/y: iqrek
+letters/z: zed
+letters/zed: zed
+location: Yerləşmə.
+lowercase: kiçik hərf
+minute: dəqiqə
+minutes: dəqiqə
+num-was-successfully: Nömrə uğurla...
+number: Nömrə.
+number-not-answering: Nömrə cavab vermir.
+one-moment-please: Bir dəqiqə, zəhmət olmasa.
+pbx-invalid: Üzr istəyirik, bu etibarlı daxili nömrə deyil. Zəhmət olmasa yenidən cəhd edin.
+pbx-invalidpark: Üzr istəyirik, bu daxili nömrədə park edilmiş zəng yoxdur. Zəhmət olmasa yenidən cəhd edin.
+pbx-parkingfailed: Park etmə cəhdi uğursuz oldu.
+pbx-transfer: Köçürmə.
+phonetic/9_p: niner
+phonetic/a_p: alpha
+phonetic/b_p: bravo
+phonetic/c_p: charlie
+phonetic/d_p: delta
+phonetic/e_p: echo
+phonetic/f_p: foxtrot
+phonetic/g_p: golf
+phonetic/h_p: hotel
+phonetic/i_p: india
+phonetic/j_p: juliet
+phonetic/k_p: kilo
+phonetic/l_p: lima
+phonetic/m_p: mike
+phonetic/n_p: november
+phonetic/o_p: oscar
+phonetic/p_p: papa
+phonetic/q_p: quebec
+phonetic/r_p: romeo
+phonetic/s_p: sierra
+phonetic/t_p: tango
+phonetic/u_p: uniform
+phonetic/v_p: victor
+phonetic/w_p: whiskey
+phonetic/x_p: xray
+phonetic/y_p: yankee
+phonetic/z_p: zulu
+please-try-again: Zəhmət olmasa yenidən cəhd edin.
+please-try-call-later: Zəhmət olmasa zənginizi daha sonra yenidən edin.
+pls-hold-while-try: Zəhmət olmasa sizi birləşdirməyə çalışarkən gözləyin.
+pls-try-call-later: Zəhmət olmasa zənginizi daha sonra yenidən edin.
+pm-invalid-option: Bu seçim yanlışdır. Zəhmət olmasa yenidən cəhd edin.
+priv-callee-options: Bu zəng edənin indi və gələcəkdə birbaşa sizə çatması üçün 1-ə basın. Bu zəng edəni indi və həmişəlik səsli poçta göndərmək üçün 2-yə basın. Bu zəng edəni indi və həmişəlik əziyyət menyusuna göndərmək üçün 3-ə basın. Bu zəng edəni indi və həmişəlik nəzakətli "zəng etməyin" menyusuna göndərmək üçün 4-ə basın. Bu zəng edənə gələcəkdə birbaşa çatmağa icazə vermək, amma bu dəfə səsli poçta göndərmək üçün 5-ə basın.
+priv-callpending: Gözləyən bir zəng edən var, özünü belə təqdim edir:
+priv-introsaved: Təşəkkür edirik. Zəhmət olmasa gözləyin, sizi tərəf müqabilinizlə əlaqələndirməyə çalışıram!
+priv-recordintro: Siqnal səsində zəhmət olmasa adınızı söyləyin.
+privacy-incorrect: Üzr istəyirik, bu nömrə etibarlı deyil.
+privacy-prompt: Zəhmət olmasa, telefon nömrənizi şəhər kodu ilə başlayaraq daxil edin.
+privacy-thankyou: Təşəkkür edirik.
+privacy-to-blacklist-last-caller: Son zəng edən...
+privacy-unident: Zəng etdiyiniz şəxs naməlum zəngləri qəbul etmir.
+queue-callswaiting: Nümayəndə ilə danışmaq üçün gözləyir
+queue-holdtime: Təxmini gözləmə müddəti hazırda
+queue-less-than: az
+queue-minute: dəqiqə
+queue-minutes: dəqiqə
+queue-periodic-announce: Bütün nümayəndələrimiz hazırda məşğuldur. Zəhmət olmasa xətdə qalın və zənginizə növbəti boş nümayəndə tərəfindən cavab veriləcək.
+queue-quantity1: Hazırda daha çox...
+queue-quantity2: ...zəng edən nümayəndə ilə danışmaq üçün gözləyir.
+queue-reporthold: Gözləmə müddəti
+queue-seconds: Saniyə
+queue-thankyou: Səbriniz üçün təşəkkür edirik
+queue-thereare: Siz hazırda növbədə nömrəsiniz
+queue-youarenext: Zənginiz indi növbədə birincidi və növbəti boş nümayəndə tərəfindən cavab veriləcək.
+removed: Silindi.
+screen-callee-options: Sizin bu seçimləriniz var: Gələn zəngə dərhal qoşulmaq üçün 1-ə basın. Bu zəng edəni səsli poçta göndərmək üçün 2-yə basın. Bu zəng edəni əziyyət menyusuna göndərmək üçün 3-ə basın. Bu zəng edəni nəzakətli "zəng etməyin" menyusuna göndərmək üçün 4-ə basın.
+second: saniyə
+seconds: saniyə
+simul-call-limit-reached: Eyni vaxtda zəng limiti doldu.
+something-terribly-wrong: Ciddi bir xəta baş verdi!
+sorry: Bağışlayın.
+sorry-youre-having-problems: Problem yaşadığınız üçün üzr istəyirik.
+speed-dial: Sürətli yığım.
+speed-dial-empty: Daxil olduğunuz sürətli yığım girişi boşdur.
+spy-agent: Agent
+spy-console: Console
+spy-dahdi: DAHDI
+spy-h323: H.323
+spy-iax: IAX
+spy-iax2: IAX
+spy-jingle: Jingle
+spy-local: Local
+spy-mgcp: MGCP
+spy-misdn: M I S D N
+spy-mobile: Bluetooth Mobile
+spy-nbs: N B S
+spy-sip: SIP
+spy-skinny: Skinny
+spy-unistim: Unistim
+spy-usbradio: USB Radio
+spy-zap: Zap
+ss-noservice: Yığdığınız nömrə xidmətdə deyil. Zəhmət olmasa nömrəni yoxlayın və yenidən cəhd edin.
+telephone-number: Telefon nömrəsi.
+time: Vaxt.
+to-call-this-number: Bu nömrəyə zəng etmək üçün.
+to-extension: Daxili nömrəyə.
+to-listen-to-it: Onu dinləmək üçün.
+to-rerecord-it: Yenidən yazmaq üçün.
+transfer: Zəhmət olmasa bu daxili nömrəni sınayarkən gözləyin.
+tt-allbusy: Bütün nümayəndələr hazırda digər zəng edənlərə kömək edirlər. Zəhmət olmasa gözləyin və zənginizə gəliş sırasına görə cavab veriləcək.
+tt-monkeysintro: Onları meymunlar apardı
+tt-somethingwrong: Ciddi bir xəta baş verdi
+tt-weasels: Telefon sistemimizlə bağlı texniki problem yarandı
+unidentified-no-callback: Naməlum və ya gizli nömrə olduğuna görə geri zəng edilə bilməz.
+uppercase: böyük hərf
+vm-Cust1: qovluq 5
+vm-Cust2: qovluq 6
+vm-Cust3: qovluq 7
+vm-Cust4: qovluq 8
+vm-Cust5: qovluq 9
+vm-Family: ailə
+vm-Friends: dostlar
+vm-INBOX: yeni
+vm-Old: köhnə
+vm-Urgent: təcili
+vm-Work: iş
+vm-advopts: əlavə seçimlər üçün 3-ə basın
+vm-and: və
+vm-calldiffnum: başqa nömrə daxil etmək üçün 2-yə basın
+vm-changeto: Hansı qovluğa dəyişmək istəyirsiniz?
+vm-delete: Bu mesajı silmək üçün 7-yə basın.
+vm-deleted: Mesaj silindi.
+vm-dialout: zəhmət olmasa zənginizi birləşdirərkən gözləyin
+vm-duration: Bu mesajın müddəti ...
+vm-enter-num-to-call: zəhmət olmasa zəng etmək istədiyiniz nömrəni daxil edin
+vm-extension: daxili nömrə
+vm-first: birinci
+vm-for: üçün
+vm-forward: Daxili nömrə daxil etmək üçün 1-ə, qovluqdan istifadə etmək üçün 2-yə basın
+vm-forward-multiple: bu mesajı göndərmək üçün 1-ə, başqa alıcı əlavə etmək üçün 2-yə basın.
+vm-forwardoptions: mesaja giriş əlavə etmək üçün 1-ə, mesajı girişsiz yönləndirmək üçün 2-yə basın
+vm-from: kimdən
+vm-from-extension: daxili nömrədən mesaj
+vm-from-phonenumber: telefon nömrəsindən mesaj
+vm-goodbye: Sağ olun
+vm-helpexit: Kömək üçün ulduz, çıxmaq üçün diyez düyməsinə basın.
+vm-incorrect: Giriş yanlışdır.
+vm-incorrect-mailbox: Giriş yanlışdır. Poçt qutusu?
+vm-instructions: Mesajlarınıza baxmaq üçün indi 1-ə basın. Səsli poçtdan istənilən vaxt diyez düyməsinə basaraq çıxa bilərsiniz.
+vm-intro: Zəhmət olmasa siqnal səsindən sonra mesajınızı buraxın. Bitirdikdə telefonu bağlayın və ya diyez düyməsini basın.
+vm-invalid-password: Bu şifrə bu poçt qutusu üçün minimum tələblərə cavab vermir. Zəhmət olmasa yenidən cəhd edin.
+vm-invalidpassword: Bu etibarlı şifrə deyil. Zəhmət olmasa yenidən cəhd edin.
+vm-isonphone: telefonda danışır
+vm-isunavail: əlçatan deyil
+vm-last: sonuncu
+vm-leavemsg: Mesaj buraxmaq üçün 5-ə basın
+vm-login: Səsli poçt. Poçt qutusu?
+vm-mailboxfull: bağışlayın, lakin istifadəçinin poçt qutusu daha çox mesaj qəbul edə bilməz
+vm-marked-nonurgent: Təcili status silindi.
+vm-marked-urgent: Mesaj təcili olaraq işarələndi.
+vm-message: mesaj
+vm-messages: mesajlar
+vm-minutes: dəqiqə
+vm-mismatch: Daxil etdiyiniz və təkrar daxil etdiyiniz şifrələr uyğun gəlmir. Zəhmət olmasa yenidən cəhd edin.
+vm-msgforwarded: Mesajınız uğurla yönləndirildi.
+vm-msginstruct: Növbəti mesajı dinləmək üçün 6-ya, bu mesajı təkrar dinləmək üçün 5-ə, əvvəlki mesajı dinləmək üçün 4-ə, bu mesajı silmək və ya bərpa etmək üçün 0-a, səsli poçtdan çıxmaq üçün diyez düyməsinə basın.
+vm-msgsaved: Mesajınız saxlanıldı.
+vm-newpassword: Zəhmət olmasa yeni şifrənizi daxil edib diyez düyməsinə basın.
+vm-newuser: Səsli poçta xoş gəlmisiniz. Əvvəlcə sizə qısa quraşdırma prosesini izah edəcəyəm.
+vm-next: Növbəti mesajı oxutmaq üçün 6-ya basın.
+vm-no: xeyr
+vm-nobodyavail: Hazırda zənginizi qəbul edəcək heç kim yoxdur
+vm-nobox: bu mesaja cavab verə bilməzsiniz, çünki göndərənin poçt qutusu yoxdur
+vm-nomore: Daha çox mesaj yoxdur.
+vm-nonumber: Təəssüf ki, bu mesajı kimin göndərdiyini bilmirəm
+vm-num-i-have: məndəki nömrə budur
+vm-onefor: 1-ə basın
+vm-onefor-full: Dinləmək üçün birə basın ...
+vm-options: Əlçatan olmayan mesajınızı yazmaq üçün 1-ə, məşğul mesajınızı yazmaq üçün 2-yə, adınızı yazmaq üçün 3-ə, müvəqqəti salamlamanızı yazmaq üçün 4-ə, şifrənizi dəyişdirmək üçün 5-ə, əsas menyuya qayıtmaq üçün ulduz düyməsinə basın.
+vm-opts: Qovluqları dəyişdirmək üçün 2-yə, əlavə seçimlər üçün 3-ə, poçt qutusu seçimləri üçün 0-a basın.
+vm-opts-full: digər qovluqlarda saxlanılmış mesajlara daxil olmaq üçün 2-yə basın. Başqa poçt qutusu üçün mesaj yazmaq üçün 3-ə basın. Salamlama və şifrə idarəsi üçün 0-a basın.
+vm-passchanged: Şifrəniz dəyişdirildi.
+vm-password: şifrə
+vm-pls-try-again: zəhmət olmasa yenidən cəhd edin
+vm-press: basın
+vm-prev: Əvvəlki mesaj üçün 4-ə basın
+vm-reachoper: operatora çatmaq üçün 0-a basın
+vm-rec-busy: Siqnal səsindən sonra məşğul mesajınızı söyləyin və diyez düyməsinə basın.
+vm-rec-name: Siqnal səsindən sonra adınızı söyləyin və diyez düyməsinə basın.
+vm-rec-temp: Siqnal səsindən sonra müvəqqəti mesajınızı söyləyin və diyez düyməsinə basın.
+vm-rec-unv: Siqnal səsindən sonra əlçatan olmayan mesajınızı söyləyin və diyez düyməsinə basın.
+vm-received: alındı
+vm-record-prepend: Siqnal səsindən sonra zəhmət olmasa yönləndirilən mesaja giriş yazın. Bitirdikdə diyez düyməsinə basın.
+vm-reenterpassword: Zəhmət olmasa şifrənizi yenidən daxil edib diyez düyməsinə basın.
+vm-repeat: Cari mesajı təkrar dinləmək üçün 5-ə basın.
+vm-review: bu yazını qəbul etmək üçün 1-ə, dinləmək üçün 2-yə, mesajınızı yenidən yazmaq üçün 3-ə basın
+vm-review-nonurgent: Bu mesajın təcili statusunu silmək üçün 4-ə basın.
+vm-review-urgent: Bu mesajı təcili olaraq işarələmək üçün 4-ə basın.
+vm-saved: saxlanıldı
+vm-savedto: saxlanıldı
+vm-savefolder: Mesajı hansı qovluğa saxlamalıyam?
+vm-savemessage: və ya bu mesajı saxlamaq üçün 9-a basın
+vm-saveoper: bu yazını qəbul etmək üçün 1-ə basın, əks halda gözləməyə davam edin
+vm-sorry: Bağışlayın, cavabınızı başa düşmədim.
+vm-star-cancel: ləğv etmək üçün ulduz düyməsinə basın
+vm-starmain: əsas menyuya qayıtmaq üçün ulduz düyməsinə basın
+vm-tempgreetactive: Müvəqqəti salamlamanız hazırda aktivdir
+vm-tempgreeting: müvəqqəti salamlamanızı yazmaq üçün 1-ə basın
+vm-tempgreeting2: müvəqqəti salamlamanızı yazmaq üçün 1-ə, müvəqqəti salamlamanızı silmək üçün 2-yə basın
+vm-tempremoved: Müvəqqəti salamlamanız silindi
+vm-then-pound: sonra diyez düyməsinə basın
+vm-theperson: Daxili nömrədəki şəxs
+vm-tmpexists: Standart salamlamalarınızı əvəz edən müvəqqəti salamlama var.
+vm-tocallback: bu mesajı göndərən şəxsə zəng etmək üçün 2-yə basın
+vm-tocallnum: bu nömrəyə zəng etmək üçün 1-ə basın
+vm-tocancel: və ya ləğv etmək üçün diyez düyməsinə basın.
+vm-tocancelmsg: bu mesajı ləğv etmək üçün ulduz düyməsinə basın
+vm-toenternumber: nömrə daxil etmək üçün 1-ə basın
+vm-toforward: Mesajı başqa istifadəçiyə yönləndirmək üçün 8-ə basın
+vm-tohearenv: mesajın məlumatlarını dinləmək üçün 3-ə basın
+vm-tomakecall: xarici zəng etmək üçün 4-ə basın
+vm-tooshort: mesajınız çox qısadır
+vm-toreply: cavab göndərmək üçün 1-ə basın
+vm-torerecord: mesajınızı yenidən yazmaq üçün 3-ə basın
+vm-undelete: Bu mesajı bərpa etmək üçün 7-yə basın
+vm-undeleted: Mesaj bərpa edildi.
+vm-unknown-caller: naməlum zəng edəndən
+vm-whichbox: Mesaj buraxmaq üçün zəhmət olmasa poçt qutusu nömrəsini daxil edin.
+vm-youhave: sizin var
+with: İlə.
+you-entered: Siz daxil etdiniz.
+your: Sizin.
